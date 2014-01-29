@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings 
+	roundCorners="true" 
+	fontSize="30" 
+	startColor="#000066" 
+	endColor="#000066"
+	highlightColor="#ffcc33"
+	titleColor="#222222" 
+	yearColor="#999999"
+	postColor="#000066">
+	<pane>
+		<name>Damon</name>
+		<tagline>Sophomore - Communications</tagline>
+		<imageurl>damon.png</imageurl>
+		<blogurl>http://umd.typepad.com/damon</blogurl>
+		<feedurl>http://umd.typepad.com/damon/rss.xml</feedurl>
+		<showFeed>true</showFeed>
+	</pane>
+	<pane>
+		<name>Jer</name>
+		<tagline>Senior - Software Engineering</tagline>
+		<imageurl>jer.png</imageurl>
+		<blogurl>http://umd.typepad.com/jer_1011/</blogurl>
+		<feedurl>http://umd.typepad.com/jer_1011/rss.xml</feedurl>
+		<showFeed>true</showFeed>
+	</pane>
+	<pane>
+		<name>Monika</name>
+		<tagline>Sophomore - Communications</tagline>
+		<imageurl>monika.png</imageurl>
+		<blogurl>http://umd.typepad.com/monika_1011/</blogurl>
+		<feedurl>http://umd.typepad.com/monika_1011/rss.xml</feedurl>
+		<showFeed>true</showFeed>
+	</pane>
+	<pane>
+		<name>Samantha</name>
+		<tagline>Graduate Student - Information Systems</tagline>
+		<imageurl>samantha.png</imageurl>
+		<blogurl>http://umd.typepad.com/samantha_1011/</blogurl>
+		<feedurl>http://umd.typepad.com/samantha_1011/rss.xml</feedurl>
+		<showFeed>true</showFeed>
+	</pane>
+</settings>
